@@ -1,0 +1,118 @@
+
+Goblin_Red.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baoshi
+  rotate: true
+  xy: 478, 99
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Bing
+  rotate: true
+  xy: 2, 4
+  size: 122, 144
+  orig: 122, 144
+  offset: 0, 0
+  index: -1
+Dang
+  rotate: false
+  xy: 404, 69
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+Di
+  rotate: false
+  xy: 148, 63
+  size: 110, 63
+  orig: 110, 63
+  offset: 0, 0
+  index: -1
+Kuang
+  rotate: false
+  xy: 345, 77
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+Kuangli
+  rotate: false
+  xy: 148, 2
+  size: 54, 13
+  orig: 54, 13
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: true
+  xy: 260, 2
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: true
+  xy: 260, 48
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1
+Toufa
+  rotate: false
+  xy: 148, 17
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 404, 92
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Youer
+  rotate: false
+  xy: 215, 12
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: true
+  xy: 443, 67
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 481, 63
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Zuoer
+  rotate: true
+  xy: 345, 46
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 304, 3
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 395, 44
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1

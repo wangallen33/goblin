@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"area","text":"INT_ID,INT_Area,INT_Page,INT_LockStar,STR_Name,STR_Resource,STR_Button\r\n1,1,1,0,静谧森林,area_bg_1,Button_Area_1\r\n2,2,2,20,圣光遗迹,area_bg_2,Button_Area_2\r\n3,3,3,40,塔哈雪山,area_bg_3,Button_Area_3\r\n4,4,4,60,破碎古堡,area_bg_4,Button_Area_4"}

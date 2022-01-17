@@ -1,0 +1,41 @@
+
+Dayun.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Yun1
+  rotate: false
+  xy: 696, 687
+  size: 216, 167
+  orig: 216, 167
+  offset: 0, 0
+  index: -1
+Yun2
+  rotate: false
+  xy: 2, 2
+  size: 279, 250
+  orig: 279, 252
+  offset: 0, 1
+  index: -1
+Yun3
+  rotate: false
+  xy: 2, 254
+  size: 374, 278
+  orig: 374, 278
+  offset: 0, 0
+  index: -1
+Yun4
+  rotate: false
+  xy: 2, 534
+  size: 380, 320
+  orig: 380, 320
+  offset: 0, 0
+  index: -1
+Yun5
+  rotate: false
+  xy: 384, 592
+  size: 310, 262
+  orig: 310, 262
+  offset: 0, 0
+  index: -1

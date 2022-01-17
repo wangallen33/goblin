@@ -1,0 +1,20 @@
+
+Xiaoyun.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Yun4
+  rotate: false
+  xy: 2, 2
+  size: 380, 320
+  orig: 380, 320
+  offset: 0, 0
+  index: -1
+Yun5
+  rotate: false
+  xy: 384, 60
+  size: 310, 262
+  orig: 310, 262
+  offset: 0, 0
+  index: -1

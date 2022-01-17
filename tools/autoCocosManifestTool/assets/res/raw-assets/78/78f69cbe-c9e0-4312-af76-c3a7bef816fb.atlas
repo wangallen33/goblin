@@ -1,0 +1,139 @@
+
+Goblin_Normal.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dang
+  rotate: false
+  xy: 663, 71
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+Daoguang1
+  rotate: false
+  xy: 138, 65
+  size: 127, 60
+  orig: 127, 60
+  offset: 0, 0
+  index: -1
+Daoguang2
+  rotate: false
+  xy: 267, 65
+  size: 127, 60
+  orig: 127, 60
+  offset: 0, 0
+  index: -1
+Daoguang3
+  rotate: false
+  xy: 2, 59
+  size: 134, 66
+  orig: 134, 66
+  offset: 0, 0
+  index: -1
+Daoguang4
+  rotate: false
+  xy: 396, 62
+  size: 100, 63
+  orig: 100, 63
+  offset: 0, 0
+  index: -1
+Daoguang5
+  rotate: false
+  xy: 2, 2
+  size: 93, 55
+  orig: 93, 55
+  offset: 0, 0
+  index: -1
+Daoguang6
+  rotate: false
+  xy: 588, 58
+  size: 55, 7
+  orig: 55, 7
+  offset: 0, 0
+  index: -1
+Futou
+  rotate: false
+  xy: 588, 67
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: true
+  xy: 298, 21
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: true
+  xy: 498, 46
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+Toufa
+  rotate: false
+  xy: 143, 12
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Xianglian
+  rotate: false
+  xy: 195, 26
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 663, 91
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Youer
+  rotate: true
+  xy: 97, 5
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 345, 25
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: true
+  xy: 815, 100
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Zuoer
+  rotate: false
+  xy: 249, 21
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: true
+  xy: 737, 100
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 778, 100
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1

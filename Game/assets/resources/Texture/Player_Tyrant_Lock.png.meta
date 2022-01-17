@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a48d64b6-581c-4245-adeb-916bbebb04dc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Player_Tyrant_Lock": {
+      "ver": "1.0.3",
+      "uuid": "ceaa3ac3-e905-4ccd-a8f3-bc5da02362fc",
+      "rawTextureUuid": "a48d64b6-581c-4245-adeb-916bbebb04dc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 153,
+      "height": 110,
+      "rawWidth": 155,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

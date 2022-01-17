@@ -1,0 +1,62 @@
+
+Loading_FlowerL.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dicao
+  rotate: false
+  xy: 396, 47
+  size: 98, 77
+  orig: 98, 77
+  offset: 0, 0
+  index: -1
+Hua
+  rotate: false
+  xy: 496, 52
+  size: 87, 72
+  orig: 87, 72
+  offset: 0, 0
+  index: -1
+Lvye1
+  rotate: true
+  xy: 289, 20
+  size: 104, 105
+  orig: 104, 105
+  offset: 0, 0
+  index: -1
+Lvye2
+  rotate: true
+  xy: 585, 66
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+Lvye3
+  rotate: false
+  xy: 154, 43
+  size: 133, 81
+  orig: 133, 81
+  offset: 0, 0
+  index: -1
+Lvye4
+  rotate: false
+  xy: 2, 42
+  size: 150, 82
+  orig: 150, 82
+  offset: 0, 0
+  index: -1
+Shitou
+  rotate: true
+  xy: 675, 64
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+Shuizhu
+  rotate: false
+  xy: 2, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

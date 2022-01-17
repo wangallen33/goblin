@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1ee5b986-8ac6-4bd6-b227-799edf86604f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Manga_2": {
+      "ver": "1.0.3",
+      "uuid": "cce0e4ee-51fe-49d2-bad2-15464292b9be",
+      "rawTextureUuid": "1ee5b986-8ac6-4bd6-b227-799edf86604f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 750,
+      "height": 1336,
+      "rawWidth": 750,
+      "rawHeight": 1336,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

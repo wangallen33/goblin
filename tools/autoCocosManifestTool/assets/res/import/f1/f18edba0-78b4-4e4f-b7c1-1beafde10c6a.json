@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"Story_2","text":"INT_ID,STR_Head,INT_Direction,STR_Desc\n1,Plot_Guide,0,做得不错嘛，是块做猎宝人的料。这次你要学的是【宝石合成】。\n2,Plot_Guide,0,不同的宝石等级不同，根据颜色进行区分，【由低到高】依次分为白、绿、蓝、紫、橙、红5种颜色。\n3,Plot_Guide,0,【连续收集2个相同颜色宝石】，可以把场景中任意一颗白宝石变成更高级的宝石。\n4,Plot_Guide,0,等级越高的宝石越值钱，所以尽可能收集高等级的宝石。"}

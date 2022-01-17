@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6161f17c-0f01-417f-b5cb-e7888b434ca0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Skill_Coin_Bg": {
+      "ver": "1.0.3",
+      "uuid": "7f2b3d52-2bd3-4a6b-af3a-d320961eef19",
+      "rawTextureUuid": "6161f17c-0f01-417f-b5cb-e7888b434ca0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 86,
+      "height": 31,
+      "rawWidth": 88,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

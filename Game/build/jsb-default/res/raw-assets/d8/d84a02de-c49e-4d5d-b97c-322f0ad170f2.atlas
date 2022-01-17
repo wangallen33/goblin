@@ -1,0 +1,76 @@
+
+Loading_FlowerR.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Diye
+  rotate: false
+  xy: 374, 33
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+Hongye1
+  rotate: false
+  xy: 511, 2
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+Hongye2
+  rotate: true
+  xy: 736, 89
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Hongye3
+  rotate: false
+  xy: 656, 93
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+Hongye4
+  rotate: false
+  xy: 468, 33
+  size: 41, 93
+  orig: 41, 93
+  offset: 0, 0
+  index: -1
+Lvye1
+  rotate: false
+  xy: 574, 87
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Lvye2
+  rotate: false
+  xy: 2, 31
+  size: 205, 95
+  orig: 205, 95
+  offset: 0, 0
+  index: -1
+Lvye3
+  rotate: false
+  xy: 511, 59
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+Shitou
+  rotate: false
+  xy: 209, 24
+  size: 163, 102
+  orig: 163, 102
+  offset: 0, 0
+  index: -1
+Shui
+  rotate: false
+  xy: 2, 6
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1

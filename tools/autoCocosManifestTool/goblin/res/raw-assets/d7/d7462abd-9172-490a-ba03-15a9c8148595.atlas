@@ -1,0 +1,104 @@
+
+Goblin_Blue.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baoshi
+  rotate: false
+  xy: 207, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Dang
+  rotate: false
+  xy: 206, 69
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+Kuang
+  rotate: false
+  xy: 149, 76
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+Kuangli
+  rotate: false
+  xy: 76, 18
+  size: 54, 13
+  orig: 54, 13
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 133, 31
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 2, 40
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+Toufa
+  rotate: false
+  xy: 82, 78
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 2, 4
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Youer
+  rotate: true
+  xy: 82, 33
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: true
+  xy: 132, 6
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 205, 33
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Zuoer
+  rotate: true
+  xy: 206, 92
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 179, 31
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 170, 6
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1

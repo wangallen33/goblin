@@ -1,0 +1,209 @@
+
+Player_Joyce.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bao
+  rotate: true
+  xy: 437, 76
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Chan
+  rotate: true
+  xy: 216, 87
+  size: 39, 80
+  orig: 39, 80
+  offset: 0, 0
+  index: -1
+Dang
+  rotate: false
+  xy: 372, 56
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Mei1
+  rotate: false
+  xy: 216, 64
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Mei2
+  rotate: false
+  xy: 216, 46
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+Pao
+  rotate: false
+  xy: 242, 15
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Piaodai
+  rotate: false
+  xy: 372, 96
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: true
+  xy: 96, 2
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 120, 56
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+Toufa
+  rotate: false
+  xy: 2, 51
+  size: 116, 75
+  orig: 116, 75
+  offset: 0, 0
+  index: -1
+Weijing
+  rotate: false
+  xy: 195, 19
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+Yan1
+  rotate: true
+  xy: 490, 70
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+Yan2
+  rotate: false
+  xy: 298, 75
+  size: 56, 15
+  orig: 56, 15
+  offset: 0, 0
+  index: -1
+Yan3
+  rotate: false
+  xy: 372, 81
+  size: 53, 13
+  orig: 53, 13
+  offset: 0, 0
+  index: -1
+Yanjing
+  rotate: false
+  xy: 2, 7
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 298, 92
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Youer
+  rotate: true
+  xy: 478, 33
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Youerfa
+  rotate: false
+  xy: 162, 6
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Youlei
+  rotate: true
+  xy: 414, 55
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 280, 37
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 309, 38
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Zui1
+  rotate: true
+  xy: 356, 67
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+Zui2
+  rotate: false
+  xy: 195, 4
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Zui3
+  rotate: true
+  xy: 318, 13
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+Zui4
+  rotate: true
+  xy: 355, 42
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+Zuoerfa
+  rotate: false
+  xy: 136, 2
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+Zuolei
+  rotate: false
+  xy: 337, 51
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: true
+  xy: 437, 47
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 280, 12
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1

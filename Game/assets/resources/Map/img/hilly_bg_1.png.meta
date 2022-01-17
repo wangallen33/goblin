@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5f596adb-8b01-4861-b4d7-225c7232c24a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "hilly_bg_1": {
+      "ver": "1.0.3",
+      "uuid": "1ad39377-e0e3-43b2-968b-2808e6b8c2f9",
+      "rawTextureUuid": "5f596adb-8b01-4861-b4d7-225c7232c24a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -63.5,
+      "offsetY": 96,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 385,
+      "height": 320,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

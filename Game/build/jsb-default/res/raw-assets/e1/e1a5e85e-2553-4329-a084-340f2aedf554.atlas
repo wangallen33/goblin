@@ -1,0 +1,167 @@
+
+Du.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pao
+  rotate: false
+  xy: 588, 168
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Ping1
+  rotate: false
+  xy: 459, 148
+  size: 37, 43
+  orig: 39, 45
+  offset: 1, 1
+  index: -1
+Ping10
+  rotate: false
+  xy: 542, 109
+  size: 39, 45
+  orig: 41, 47
+  offset: 1, 1
+  index: -1
+Ping2
+  rotate: false
+  xy: 455, 111
+  size: 44, 35
+  orig: 46, 37
+  offset: 1, 1
+  index: -1
+Ping3
+  rotate: false
+  xy: 498, 152
+  size: 41, 43
+  orig: 43, 45
+  offset: 1, 1
+  index: -1
+Ping4
+  rotate: false
+  xy: 501, 106
+  size: 39, 44
+  orig: 41, 46
+  offset: 1, 1
+  index: -1
+Ping5
+  rotate: true
+  xy: 541, 156
+  size: 39, 45
+  orig: 41, 47
+  offset: 1, 1
+  index: -1
+Ping6
+  rotate: true
+  xy: 237, 127
+  size: 38, 45
+  orig: 40, 47
+  offset: 1, 1
+  index: -1
+Ping7
+  rotate: true
+  xy: 284, 127
+  size: 38, 45
+  orig: 40, 47
+  offset: 1, 1
+  index: -1
+Ping8
+  rotate: true
+  xy: 361, 116
+  size: 38, 45
+  orig: 40, 47
+  offset: 1, 1
+  index: -1
+Ping9
+  rotate: true
+  xy: 408, 116
+  size: 38, 45
+  orig: 40, 47
+  offset: 1, 1
+  index: -1
+Yeti
+  rotate: false
+  xy: 331, 124
+  size: 28, 41
+  orig: 30, 43
+  offset: 1, 1
+  index: -1
+Zhiliao1
+  rotate: true
+  xy: 614, 183
+  size: 70, 108
+  orig: 150, 152
+  offset: 40, 32
+  index: -1
+Zhiliao10
+  rotate: true
+  xy: 498, 197
+  size: 56, 114
+  orig: 150, 152
+  offset: 51, 1
+  index: -1
+Zhiliao2
+  rotate: false
+  xy: 939, 155
+  size: 73, 98
+  orig: 150, 152
+  offset: 37, 32
+  index: -1
+Zhiliao3
+  rotate: true
+  xy: 724, 184
+  size: 69, 106
+  orig: 150, 152
+  offset: 37, 17
+  index: -1
+Zhiliao4
+  rotate: true
+  xy: 832, 186
+  size: 67, 105
+  orig: 150, 152
+  offset: 38, 15
+  index: -1
+Zhiliao5
+  rotate: true
+  xy: 367, 193
+  size: 60, 129
+  orig: 150, 152
+  offset: 43, 1
+  index: -1
+Zhiliao6
+  rotate: true
+  xy: 237, 167
+  size: 86, 128
+  orig: 150, 152
+  offset: 31, 2
+  index: -1
+Zhiliao7
+  rotate: false
+  xy: 2, 2
+  size: 99, 130
+  orig: 150, 152
+  offset: 25, 0
+  index: -1
+Zhiliao8
+  rotate: true
+  xy: 115, 145
+  size: 108, 120
+  orig: 150, 152
+  offset: 20, 0
+  index: -1
+Zhiliao9
+  rotate: false
+  xy: 2, 134
+  size: 111, 119
+  orig: 150, 152
+  offset: 19, 1
+  index: -1
+noMucus
+  rotate: false
+  xy: 367, 156
+  size: 90, 35
+  orig: 90, 35
+  offset: 0, 0
+  index: -1

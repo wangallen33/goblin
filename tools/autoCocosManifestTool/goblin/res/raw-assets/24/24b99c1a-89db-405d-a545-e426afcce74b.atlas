@@ -1,0 +1,153 @@
+
+Goblin_Mucus.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dang
+  rotate: false
+  xy: 43, 2
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+Mianju
+  rotate: true
+  xy: 140, 52
+  size: 74, 100
+  orig: 74, 100
+  offset: 0, 0
+  index: -1
+Mianjudai
+  rotate: false
+  xy: 278, 2
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Pingboli
+  rotate: false
+  xy: 431, 86
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+Pingzi
+  rotate: false
+  xy: 378, 83
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 172, 8
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Shui
+  rotate: false
+  xy: 244, 19
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: true
+  xy: 242, 54
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 2, 26
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Youer
+  rotate: false
+  xy: 320, 87
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 217, 12
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: true
+  xy: 365, 54
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Yumao1
+  rotate: false
+  xy: 278, 24
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Yumao2
+  rotate: false
+  xy: 133, 2
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Yumao3
+  rotate: true
+  xy: 76, 27
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+Yumao4
+  rotate: true
+  xy: 2, 2
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Yumao5
+  rotate: true
+  xy: 306, 2
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+Zuoer
+  rotate: false
+  xy: 320, 48
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 478, 85
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 316, 22
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 2, 62
+  size: 64, 136
+  orig: 64, 136
+  offset: 0, 0
+  index: -1

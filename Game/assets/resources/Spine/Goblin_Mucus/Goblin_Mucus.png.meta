@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5db8bd1b-01f2-49fe-b56c-026c57eaa335",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Goblin_Mucus": {
+      "ver": "1.0.3",
+      "uuid": "12535dc6-c92c-42dd-883c-8035f6ecb4be",
+      "rawTextureUuid": "5db8bd1b-01f2-49fe-b56c-026c57eaa335",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 1018,
+      "height": 240,
+      "rawWidth": 1024,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

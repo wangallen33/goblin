@@ -1,0 +1,104 @@
+
+Goblin_Purple.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baoshi
+  rotate: true
+  xy: 177, 50
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Dang
+  rotate: false
+  xy: 209, 34
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+Kuang
+  rotate: false
+  xy: 148, 81
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+Kuangli
+  rotate: false
+  xy: 127, 35
+  size: 54, 13
+  orig: 54, 13
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 81, 38
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 2, 45
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+Toufa
+  rotate: false
+  xy: 81, 82
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 2, 9
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Youer
+  rotate: true
+  xy: 205, 83
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: true
+  xy: 104, 10
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 76, 2
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Zuoer
+  rotate: true
+  xy: 127, 50
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: true
+  xy: 209, 57
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 142, 10
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1

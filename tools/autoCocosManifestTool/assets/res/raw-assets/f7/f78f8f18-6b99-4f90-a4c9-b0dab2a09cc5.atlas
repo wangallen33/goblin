@@ -1,0 +1,48 @@
+
+Player_Shouhu.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 344, 23
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 448, 23
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 552, 23
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 656, 23
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+Shibai
+  rotate: false
+  xy: 2, 73
+  size: 340, 37
+  orig: 340, 37
+  offset: 0, 0
+  index: -1
+Xin
+  rotate: false
+  xy: 2, 2
+  size: 161, 69
+  orig: 161, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"Story_18","text":"INT_ID,STR_Head,INT_Direction,STR_Desc\n1,Plot_Joyce,0,快看！是圣光祭坛！听说当所有祭坛亮起来的时候，祭坛的所在地便会得到祝福，不受邪灵侵蚀。\n2,Plot_Lilo,1,但是这里的祭坛好像被破坏了，可恶的哥布林！我们去把祭坛修复了吧。\n3,Plot_Joyce,0,你知道怎么修复吗？\n4,Plot_Lilo,1,当然知道了，听好了！修复祭坛需要按照一定的顺序才行，只有<color=#ff0000>发光的祭坛</>才能被修复。\n4,Plot_Lilo,1,而且，在修复过程中不能被攻击，否则<color=#ff0000>需要重新操作</>，明白了吗？"}

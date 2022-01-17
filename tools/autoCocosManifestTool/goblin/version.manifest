@@ -1,0 +1,6 @@
+{
+    "packageUrl": "http://am.fmgames.cn:29954/hotUpdate/goblin",
+    "remoteManifestUrl": "http://am.fmgames.cn:29954/hotUpdate/goblin/project.manifest",
+    "remoteVersionUrl": "http://am.fmgames.cn:29954/hotUpdate/goblin/version.manifest",
+    "version": "1.1.0"
+}

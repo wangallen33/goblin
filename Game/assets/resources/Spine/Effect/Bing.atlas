@@ -1,0 +1,146 @@
+
+Bing.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bing
+  rotate: false
+  xy: 2, 134
+  size: 106, 96
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+Wu1
+  rotate: false
+  xy: 2, 51
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+Wu2
+  rotate: false
+  xy: 110, 151
+  size: 85, 79
+  orig: 85, 81
+  offset: 0, 1
+  index: -1
+Wu3
+  rotate: false
+  xy: 197, 150
+  size: 84, 80
+  orig: 85, 81
+  offset: 0, 1
+  index: -1
+Wu4
+  rotate: false
+  xy: 283, 149
+  size: 83, 81
+  orig: 85, 81
+  offset: 1, 0
+  index: -1
+Wu5
+  rotate: false
+  xy: 168, 68
+  size: 79, 80
+  orig: 85, 81
+  offset: 4, 0
+  index: -1
+Wu6
+  rotate: false
+  xy: 89, 51
+  size: 77, 81
+  orig: 85, 81
+  offset: 5, 0
+  index: -1
+Wu7
+  rotate: false
+  xy: 368, 150
+  size: 80, 80
+  orig: 85, 81
+  offset: 1, 0
+  index: -1
+Wuqi1
+  rotate: false
+  xy: 2, 2
+  size: 84, 47
+  orig: 86, 49
+  offset: 1, 1
+  index: -1
+Wuqi10
+  rotate: true
+  xy: 349, 19
+  size: 80, 46
+  orig: 82, 48
+  offset: 1, 1
+  index: -1
+Wuqi11
+  rotate: true
+  xy: 397, 19
+  size: 80, 46
+  orig: 82, 48
+  offset: 1, 1
+  index: -1
+Wuqi12
+  rotate: true
+  xy: 445, 21
+  size: 78, 46
+  orig: 80, 48
+  offset: 1, 1
+  index: -1
+Wuqi2
+  rotate: true
+  xy: 450, 149
+  size: 81, 46
+  orig: 83, 48
+  offset: 1, 1
+  index: -1
+Wuqi3
+  rotate: false
+  xy: 88, 3
+  size: 80, 46
+  orig: 82, 48
+  offset: 1, 1
+  index: -1
+Wuqi4
+  rotate: true
+  xy: 302, 19
+  size: 80, 45
+  orig: 82, 47
+  offset: 1, 1
+  index: -1
+Wuqi5
+  rotate: false
+  xy: 170, 20
+  size: 82, 46
+  orig: 84, 48
+  offset: 1, 1
+  index: -1
+Wuqi6
+  rotate: false
+  xy: 249, 101
+  size: 82, 46
+  orig: 84, 48
+  offset: 1, 1
+  index: -1
+Wuqi7
+  rotate: true
+  xy: 254, 19
+  size: 80, 46
+  orig: 82, 48
+  offset: 1, 1
+  index: -1
+Wuqi8
+  rotate: false
+  xy: 333, 101
+  size: 78, 46
+  orig: 80, 48
+  offset: 1, 1
+  index: -1
+Wuqi9
+  rotate: false
+  xy: 413, 101
+  size: 78, 46
+  orig: 80, 48
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,69 @@
+
+Bomb.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 199, 110
+  size: 58, 37
+  orig: 60, 39
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 353, 171
+  size: 101, 83
+  orig: 103, 85
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 394, 45
+  size: 124, 90
+  orig: 126, 92
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 297, 35
+  size: 133, 95
+  orig: 135, 97
+  offset: 1, 1
+  index: -1
+5
+  rotate: true
+  xy: 99, 110
+  size: 144, 98
+  orig: 146, 100
+  offset: 1, 1
+  index: -1
+6
+  rotate: true
+  xy: 2, 86
+  size: 168, 95
+  orig: 170, 97
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 2, 2
+  size: 147, 82
+  orig: 149, 84
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 199, 170
+  size: 152, 84
+  orig: 154, 86
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 151, 12
+  size: 144, 96
+  orig: 146, 98
+  offset: 1, 1
+  index: -1

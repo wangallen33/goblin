@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"player","text":"INT_ID,STR_Name,INT_MoveSpeed,INT_RecoverSpeed,INT_UnlockMission,INT_UnlockType,INT_Gold,INT_Price,STR_Resource\r\n1,乔伊斯,160,2000,0,0,0,0,Player_Joyce\r\n2,妮露,176,2400,15,0,100,0,Player_Lilo\r\n3,泰恩特,192,2800,31,0,100,0,Player_Tyrant"}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "830b2563-2160-463d-a3fb-3ecf3e533d12",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Plot_Lilo": {
+      "ver": "1.0.3",
+      "uuid": "a0ca20b9-ad70-4c44-8102-258797978dcc",
+      "rawTextureUuid": "830b2563-2160-463d-a3fb-3ecf3e533d12",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 167,
+      "height": 200,
+      "rawWidth": 167,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

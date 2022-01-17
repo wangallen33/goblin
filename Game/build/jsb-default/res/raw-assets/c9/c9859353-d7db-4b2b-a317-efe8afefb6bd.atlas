@@ -1,0 +1,55 @@
+
+Jiguan.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baoshi
+  rotate: false
+  xy: 35, 6
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Dizuo
+  rotate: false
+  xy: 2, 63
+  size: 80, 61
+  orig: 80, 61
+  offset: 0, 0
+  index: -1
+Lvdai
+  rotate: true
+  xy: 2, 2
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+Qigan1
+  rotate: true
+  xy: 2, 26
+  size: 17, 73
+  orig: 17, 73
+  offset: 0, 0
+  index: -1
+Qigan2
+  rotate: true
+  xy: 2, 45
+  size: 16, 77
+  orig: 16, 77
+  offset: 0, 0
+  index: -1
+Qizi1
+  rotate: true
+  xy: 84, 76
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Qizi2
+  rotate: true
+  xy: 84, 28
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1

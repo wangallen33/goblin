@@ -1,0 +1,146 @@
+
+Goblin_Bomb.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dang
+  rotate: false
+  xy: 228, 59
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+Huojian1
+  rotate: true
+  xy: 290, 80
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Huojian2
+  rotate: true
+  xy: 402, 65
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Huojian3
+  rotate: true
+  xy: 402, 96
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+Qiu1
+  rotate: false
+  xy: 229, 23
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Qiu2
+  rotate: false
+  xy: 294, 52
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 468, 83
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+Tong
+  rotate: false
+  xy: 164, 72
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+Tongli
+  rotate: false
+  xy: 164, 48
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: true
+  xy: 87, 53
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+Toufa
+  rotate: false
+  xy: 2, 53
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+Weijin
+  rotate: false
+  xy: 2, 2
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 70, 17
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Youer
+  rotate: false
+  xy: 345, 85
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: true
+  xy: 456, 54
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 265, 22
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Zhadan
+  rotate: true
+  xy: 228, 82
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+Zuoer
+  rotate: false
+  xy: 144, 2
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 194, 8
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 345, 58
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1

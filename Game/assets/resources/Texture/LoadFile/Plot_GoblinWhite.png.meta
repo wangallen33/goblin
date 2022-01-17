@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "24861c8b-abcf-431a-b95c-8d2a83ca36c4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Plot_GoblinWhite": {
+      "ver": "1.0.3",
+      "uuid": "f022cdc3-18b8-407a-ac17-26b5d514903e",
+      "rawTextureUuid": "24861c8b-abcf-431a-b95c-8d2a83ca36c4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 185,
+      "height": 198,
+      "rawWidth": 187,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

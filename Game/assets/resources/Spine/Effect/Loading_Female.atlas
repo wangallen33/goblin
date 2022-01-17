@@ -1,0 +1,153 @@
+
+Loading_Female.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baoshi
+  rotate: true
+  xy: 792, 210
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+Baoshiying
+  rotate: false
+  xy: 2, 5
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+Huangguan
+  rotate: false
+  xy: 387, 167
+  size: 97, 87
+  orig: 97, 87
+  offset: 0, 0
+  index: -1
+Mawei
+  rotate: true
+  xy: 182, 109
+  size: 145, 203
+  orig: 145, 203
+  offset: 0, 0
+  index: -1
+Qunzi
+  rotate: false
+  xy: 486, 172
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 259, 50
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 2, 79
+  size: 178, 175
+  orig: 178, 175
+  offset: 0, 0
+  index: -1
+Toufa1
+  rotate: true
+  xy: 117, 7
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+Toufa2
+  rotate: true
+  xy: 197, 9
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+Toufa3
+  rotate: true
+  xy: 934, 214
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+Xiong
+  rotate: false
+  xy: 197, 46
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+Yanjing
+  rotate: false
+  xy: 387, 115
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 586, 218
+  size: 126, 36
+  orig: 126, 36
+  offset: 0, 0
+  index: -1
+Youerfa
+  rotate: true
+  xy: 586, 171
+  size: 45, 79
+  orig: 45, 79
+  offset: 0, 0
+  index: -1
+Youqun
+  rotate: false
+  xy: 318, 50
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 865, 212
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+Zhuzi
+  rotate: true
+  xy: 53, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Zui
+  rotate: false
+  xy: 667, 191
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Zuoerfa
+  rotate: true
+  xy: 2, 24
+  size: 53, 113
+  orig: 53, 113
+  offset: 0, 0
+  index: -1
+Zuoqun
+  rotate: false
+  xy: 714, 203
+  size: 76, 51
+  orig: 76, 51
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: true
+  xy: 364, 57
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1

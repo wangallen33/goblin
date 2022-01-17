@@ -1,0 +1,13 @@
+
+Bing.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bing
+  rotate: false
+  xy: 2, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1

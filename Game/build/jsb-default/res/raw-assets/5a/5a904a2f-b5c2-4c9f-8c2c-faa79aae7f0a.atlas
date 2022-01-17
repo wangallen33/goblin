@@ -1,0 +1,41 @@
+
+UI_Coin.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coin
+  rotate: false
+  xy: 355, 61
+  size: 53, 49
+  orig: 55, 51
+  offset: 1, 1
+  index: -1
+Guang1
+  rotate: false
+  xy: 2, 2
+  size: 129, 108
+  orig: 131, 110
+  offset: 1, 1
+  index: -1
+Guang2
+  rotate: false
+  xy: 133, 2
+  size: 109, 108
+  orig: 111, 110
+  offset: 1, 1
+  index: -1
+Guang3
+  rotate: false
+  xy: 244, 5
+  size: 109, 105
+  orig: 111, 107
+  offset: 1, 1
+  index: -1
+Guang4
+  rotate: false
+  xy: 355, 22
+  size: 40, 37
+  orig: 42, 39
+  offset: 1, 1
+  index: -1

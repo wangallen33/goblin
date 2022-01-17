@@ -1,0 +1,13 @@
+
+Guide_BombArea.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BombArea
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

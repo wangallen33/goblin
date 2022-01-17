@@ -1,0 +1,153 @@
+
+Goblin_Normal.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIng
+  rotate: false
+  xy: 2, 66
+  size: 147, 188
+  orig: 147, 188
+  offset: 0, 0
+  index: -1
+Dang
+  rotate: false
+  xy: 175, 2
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+Daoguang1
+  rotate: false
+  xy: 2, 4
+  size: 127, 60
+  orig: 127, 60
+  offset: 0, 0
+  index: -1
+Daoguang2
+  rotate: false
+  xy: 151, 126
+  size: 127, 60
+  orig: 127, 60
+  offset: 0, 0
+  index: -1
+Daoguang3
+  rotate: false
+  xy: 151, 188
+  size: 134, 66
+  orig: 134, 66
+  offset: 0, 0
+  index: -1
+Daoguang4
+  rotate: false
+  xy: 399, 191
+  size: 100, 63
+  orig: 100, 63
+  offset: 0, 0
+  index: -1
+Daoguang5
+  rotate: false
+  xy: 151, 69
+  size: 93, 55
+  orig: 93, 55
+  offset: 0, 0
+  index: -1
+Daoguang6
+  rotate: true
+  xy: 501, 199
+  size: 55, 7
+  orig: 55, 7
+  offset: 0, 0
+  index: -1
+Di
+  rotate: false
+  xy: 287, 191
+  size: 110, 63
+  orig: 110, 63
+  offset: 0, 0
+  index: -1
+Futou
+  rotate: false
+  xy: 377, 131
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 175, 22
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: true
+  xy: 287, 110
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+Toufa
+  rotate: false
+  xy: 452, 138
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Xianglian
+  rotate: true
+  xy: 246, 72
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 377, 95
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Youer
+  rotate: false
+  xy: 285, 64
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 219, 29
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: true
+  xy: 366, 68
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Zuoer
+  rotate: true
+  xy: 131, 17
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 339, 69
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 219, 2
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1

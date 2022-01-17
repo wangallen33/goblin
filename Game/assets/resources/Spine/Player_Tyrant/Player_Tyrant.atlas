@@ -1,0 +1,244 @@
+
+Player_Tyrant.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ba
+  rotate: false
+  xy: 496, 146
+  size: 14, 47
+  orig: 14, 47
+  offset: 0, 0
+  index: -1
+Bao
+  rotate: false
+  xy: 161, 134
+  size: 113, 120
+  orig: 113, 120
+  offset: 0, 0
+  index: -1
+Baobu
+  rotate: false
+  xy: 367, 28
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+Baodai
+  rotate: false
+  xy: 486, 21
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Bing
+  rotate: false
+  xy: 2, 58
+  size: 157, 196
+  orig: 157, 196
+  offset: 0, 0
+  index: -1
+Chuizi
+  rotate: false
+  xy: 276, 89
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+Dang
+  rotate: true
+  xy: 430, 63
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1
+Di
+  rotate: false
+  xy: 380, 191
+  size: 110, 63
+  orig: 110, 63
+  offset: 0, 0
+  index: -1
+Huzi
+  rotate: false
+  xy: 54, 3
+  size: 88, 53
+  orig: 88, 53
+  offset: 0, 0
+  index: -1
+Juanzhou
+  rotate: true
+  xy: 2, 2
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+Mei1
+  rotate: true
+  xy: 345, 88
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+Mei2
+  rotate: false
+  xy: 272, 60
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+Piao1
+  rotate: true
+  xy: 491, 79
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+Piao2
+  rotate: false
+  xy: 489, 98
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 380, 122
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 276, 156
+  size: 102, 98
+  orig: 102, 98
+  offset: 0, 0
+  index: -1
+Toufa
+  rotate: false
+  xy: 161, 60
+  size: 109, 72
+  orig: 109, 72
+  offset: 0, 0
+  index: -1
+Yan1
+  rotate: true
+  xy: 492, 195
+  size: 59, 18
+  orig: 59, 18
+  offset: 0, 0
+  index: -1
+Yan2
+  rotate: true
+  xy: 323, 2
+  size: 56, 15
+  orig: 56, 15
+  offset: 0, 0
+  index: -1
+Yan3
+  rotate: false
+  xy: 188, 8
+  size: 54, 13
+  orig: 54, 13
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: true
+  xy: 460, 117
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Youdai
+  rotate: true
+  xy: 188, 23
+  size: 35, 72
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+Youdaili
+  rotate: false
+  xy: 457, 81
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Youlei
+  rotate: true
+  xy: 340, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 144, 2
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+Youshou1
+  rotate: true
+  xy: 374, 78
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 457, 48
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Zui1
+  rotate: false
+  xy: 414, 19
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+Zui2
+  rotate: true
+  xy: 491, 46
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+Zui3
+  rotate: false
+  xy: 363, 6
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+Zuodai
+  rotate: false
+  xy: 340, 28
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: true
+  xy: 262, 13
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 414, 31
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Zuotui1
+  rotate: true
+  xy: 450, 16
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1

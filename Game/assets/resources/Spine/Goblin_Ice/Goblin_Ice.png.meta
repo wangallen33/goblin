@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "70921580-c2c2-43cc-8e91-1f352b3d80e4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Goblin_Ice": {
+      "ver": "1.0.3",
+      "uuid": "f1d68e87-6b65-4acf-89eb-f2e621be6473",
+      "rawTextureUuid": "70921580-c2c2-43cc-8e91-1f352b3d80e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6,
+      "offsetY": 4.5,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 1006,
+      "height": 497,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

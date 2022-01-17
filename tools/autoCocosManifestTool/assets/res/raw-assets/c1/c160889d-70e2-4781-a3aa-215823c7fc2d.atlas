@@ -1,0 +1,104 @@
+
+Goblin_Orange.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baoshi
+  rotate: true
+  xy: 132, 45
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Dang
+  rotate: false
+  xy: 359, 99
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+Kuang
+  rotate: false
+  xy: 149, 74
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+Kuangli
+  rotate: false
+  xy: 303, 107
+  size: 54, 13
+  orig: 54, 13
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 257, 77
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 2, 38
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+Toufa
+  rotate: false
+  xy: 82, 76
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 2, 2
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Youer
+  rotate: true
+  xy: 205, 77
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: true
+  xy: 398, 96
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: true
+  xy: 436, 94
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Zuoer
+  rotate: true
+  xy: 82, 45
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: true
+  xy: 303, 81
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 472, 97
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1

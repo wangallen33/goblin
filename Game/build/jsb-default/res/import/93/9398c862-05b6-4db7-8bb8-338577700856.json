@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"player","text":"INT_ID,STR_Name,INT_MoveSpeed,INT_RecoverSpeed,INT_UnlockMission,INT_UnlockType,INT_Gold,INT_Price,STR_UnlockDesc,STR_Head,STR_Resource\r\n1,乔伊斯,192,500,0,0,0,0,,Plot_Joyce,Player_Joyce\r\n2,妮露,224,1000,15,0,4514,0,叛逆贵小姐：妮露,Plot_Lilo,Player_Lilo\r\n3,泰恩特,256,1500,31,0,10636,0,精英猎宝人：泰恩特,Plot_Tyrant,Player_Tyrant"}

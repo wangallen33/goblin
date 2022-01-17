@@ -1,0 +1,237 @@
+
+Player_Shouhu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++1
+  rotate: false
+  xy: 154, 5
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Chi1
+  rotate: true
+  xy: 82, 2
+  size: 96, 70
+  orig: 98, 72
+  offset: 1, 1
+  index: -1
+Chi2
+  rotate: false
+  xy: 2, 113
+  size: 90, 98
+  orig: 92, 100
+  offset: 1, 1
+  index: -1
+Chi3
+  rotate: true
+  xy: 195, 131
+  size: 81, 104
+  orig: 83, 106
+  offset: 1, 1
+  index: -1
+Chi4
+  rotate: true
+  xy: 94, 129
+  size: 82, 99
+  orig: 84, 101
+  offset: 1, 1
+  index: -1
+Chi5
+  rotate: false
+  xy: 2, 2
+  size: 78, 109
+  orig: 80, 111
+  offset: 1, 1
+  index: -1
+Chi6
+  rotate: true
+  xy: 338, 100
+  size: 74, 97
+  orig: 76, 99
+  offset: 1, 1
+  index: -1
+Chi7
+  rotate: false
+  xy: 230, 40
+  size: 68, 89
+  orig: 70, 91
+  offset: 1, 1
+  index: -1
+Chi8
+  rotate: false
+  xy: 960, 140
+  size: 35, 33
+  orig: 37, 35
+  offset: 1, 1
+  index: -1
+Guang1
+  rotate: false
+  xy: 393, 36
+  size: 89, 62
+  orig: 91, 64
+  offset: 1, 1
+  index: -1
+Guang2
+  rotate: false
+  xy: 198, 214
+  size: 140, 40
+  orig: 142, 42
+  offset: 1, 1
+  index: -1
+Guang3
+  rotate: false
+  xy: 2, 228
+  size: 191, 13
+  orig: 193, 15
+  offset: 1, 1
+  index: -1
+Guang4
+  rotate: false
+  xy: 2, 213
+  size: 191, 13
+  orig: 193, 15
+  offset: 1, 1
+  index: -1
+Guang5
+  rotate: false
+  xy: 2, 243
+  size: 194, 11
+  orig: 196, 13
+  offset: 1, 1
+  index: -1
+Xian1
+  rotate: true
+  xy: 553, 99
+  size: 72, 90
+  orig: 74, 92
+  offset: 1, 1
+  index: -1
+Xian10
+  rotate: false
+  xy: 970, 175
+  size: 48, 79
+  orig: 50, 81
+  offset: 1, 1
+  index: -1
+Xian2
+  rotate: false
+  xy: 154, 30
+  size: 74, 97
+  orig: 76, 99
+  offset: 1, 1
+  index: -1
+Xian3
+  rotate: true
+  xy: 557, 173
+  size: 81, 102
+  orig: 83, 104
+  offset: 1, 1
+  index: -1
+Xian4
+  rotate: true
+  xy: 340, 176
+  size: 78, 107
+  orig: 80, 109
+  offset: 1, 1
+  index: -1
+Xian5
+  rotate: true
+  xy: 449, 177
+  size: 77, 106
+  orig: 79, 108
+  offset: 1, 1
+  index: -1
+Xian6
+  rotate: true
+  xy: 661, 180
+  size: 74, 104
+  orig: 76, 106
+  offset: 1, 1
+  index: -1
+Xian7
+  rotate: true
+  xy: 767, 179
+  size: 75, 101
+  orig: 77, 103
+  offset: 1, 1
+  index: -1
+Xian8
+  rotate: true
+  xy: 870, 179
+  size: 75, 98
+  orig: 77, 100
+  offset: 1, 1
+  index: -1
+Xian9
+  rotate: true
+  xy: 300, 37
+  size: 61, 91
+  orig: 63, 93
+  offset: 1, 1
+  index: -1
+Xin
+  rotate: false
+  xy: 918, 140
+  size: 40, 37
+  orig: 42, 39
+  offset: 1, 1
+  index: -1
+Xin1
+  rotate: false
+  xy: 867, 126
+  size: 49, 51
+  orig: 51, 53
+  offset: 1, 1
+  index: -1
+Xin2
+  rotate: false
+  xy: 817, 123
+  size: 48, 54
+  orig: 50, 56
+  offset: 1, 1
+  index: -1
+Xin3
+  rotate: false
+  xy: 762, 117
+  size: 53, 60
+  orig: 55, 62
+  offset: 1, 1
+  index: -1
+Xin4
+  rotate: false
+  xy: 437, 100
+  size: 55, 74
+  orig: 57, 76
+  offset: 1, 1
+  index: -1
+Xin5
+  rotate: false
+  xy: 704, 113
+  size: 56, 65
+  orig: 58, 67
+  offset: 1, 1
+  index: -1
+Xin6
+  rotate: false
+  xy: 645, 101
+  size: 57, 70
+  orig: 59, 72
+  offset: 1, 1
+  index: -1
+Xin7
+  rotate: false
+  xy: 494, 104
+  size: 57, 71
+  orig: 59, 73
+  offset: 1, 1
+  index: -1
+Zi1
+  rotate: true
+  xy: 301, 121
+  size: 91, 35
+  orig: 91, 35
+  offset: 0, 0
+  index: -1

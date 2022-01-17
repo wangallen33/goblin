@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "145d0a98-8bdd-40d0-8606-bb723c69a9f2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Player_Lilo": {
+      "ver": "1.0.3",
+      "uuid": "27aa97e0-b25b-4aac-b876-735051d03621",
+      "rawTextureUuid": "145d0a98-8bdd-40d0-8606-bb723c69a9f2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 505,
+      "height": 252,
+      "rawWidth": 512,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

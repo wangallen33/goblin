@@ -1,0 +1,188 @@
+
+Du.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Du01
+  rotate: false
+  xy: 154, 403
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Du02
+  rotate: false
+  xy: 2, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Du03
+  rotate: false
+  xy: 852, 866
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Du04
+  rotate: false
+  xy: 732, 744
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Du05
+  rotate: false
+  xy: 853, 745
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Du06
+  rotate: false
+  xy: 2, 245
+  size: 119, 124
+  orig: 119, 124
+  offset: 0, 0
+  index: -1
+Du07
+  rotate: false
+  xy: 306, 557
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Du08
+  rotate: false
+  xy: 154, 282
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Du09
+  rotate: false
+  xy: 458, 711
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Du10
+  rotate: false
+  xy: 123, 161
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Du11
+  rotate: false
+  xy: 610, 865
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Du12
+  rotate: false
+  xy: 2, 123
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Du13
+  rotate: false
+  xy: 731, 865
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Du14
+  rotate: false
+  xy: 123, 41
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+Du15
+  rotate: false
+  xy: 306, 437
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+Du16
+  rotate: false
+  xy: 610, 745
+  size: 120, 118
+  orig: 120, 118
+  offset: 0, 0
+  index: -1
+tongyong_zhiliao_00004
+  rotate: false
+  xy: 2, 679
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+tongyong_zhiliao_00006
+  rotate: false
+  xy: 154, 833
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+tongyong_zhiliao_00007
+  rotate: false
+  xy: 2, 525
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+tongyong_zhiliao_00008
+  rotate: false
+  xy: 154, 679
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+tongyong_zhiliao_00010
+  rotate: false
+  xy: 306, 833
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+tongyong_zhiliao_00012
+  rotate: false
+  xy: 2, 371
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+tongyong_zhiliao_00013
+  rotate: false
+  xy: 154, 525
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+tongyong_zhiliao_00015
+  rotate: false
+  xy: 306, 679
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+tongyong_zhiliao_00017
+  rotate: false
+  xy: 458, 833
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+tongyong_zhiliao_00020
+  rotate: false
+  xy: 2, 833
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1

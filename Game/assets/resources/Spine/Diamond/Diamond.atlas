@@ -1,0 +1,132 @@
+
+Diamond.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 509, 325
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 357, 208
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 302, 208
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 454, 308
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 404, 295
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+Guang1
+  rotate: false
+  xy: 479, 370
+  size: 137, 140
+  orig: 139, 142
+  offset: 1, 1
+  index: -1
+Guang10
+  rotate: false
+  xy: 2, 33
+  size: 144, 158
+  orig: 146, 160
+  offset: 1, 1
+  index: -1
+Guang11
+  rotate: false
+  xy: 302, 261
+  size: 100, 100
+  orig: 102, 102
+  offset: 1, 1
+  index: -1
+Guang2
+  rotate: false
+  xy: 158, 217
+  size: 142, 153
+  orig: 144, 155
+  offset: 1, 1
+  index: -1
+Guang3
+  rotate: false
+  xy: 2, 193
+  size: 154, 155
+  orig: 156, 157
+  offset: 1, 1
+  index: -1
+Guang4
+  rotate: false
+  xy: 158, 372
+  size: 169, 138
+  orig: 171, 140
+  offset: 1, 1
+  index: -1
+Guang5
+  rotate: false
+  xy: 2, 350
+  size: 154, 160
+  orig: 156, 162
+  offset: 1, 1
+  index: -1
+Guang6
+  rotate: false
+  xy: 618, 377
+  size: 128, 133
+  orig: 130, 135
+  offset: 1, 1
+  index: -1
+Guang7
+  rotate: false
+  xy: 886, 398
+  size: 114, 112
+  orig: 116, 114
+  offset: 1, 1
+  index: -1
+Guang8
+  rotate: false
+  xy: 329, 363
+  size: 148, 147
+  orig: 150, 149
+  offset: 1, 1
+  index: -1
+Guang9
+  rotate: false
+  xy: 748, 386
+  size: 136, 124
+  orig: 138, 126
+  offset: 1, 1
+  index: -1
+Yingzi
+  rotate: false
+  xy: 52, 10
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1

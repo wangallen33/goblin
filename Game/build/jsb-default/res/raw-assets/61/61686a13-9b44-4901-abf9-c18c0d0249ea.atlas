@@ -1,0 +1,76 @@
+
+Du.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pao
+  rotate: true
+  xy: 483, 93
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Xue1
+  rotate: false
+  xy: 362, 81
+  size: 119, 36
+  orig: 121, 38
+  offset: 1, 1
+  index: -1
+Xue2
+  rotate: false
+  xy: 2, 78
+  size: 117, 39
+  orig: 119, 41
+  offset: 1, 1
+  index: -1
+Xue3
+  rotate: false
+  xy: 121, 79
+  size: 118, 38
+  orig: 120, 40
+  offset: 1, 1
+  index: -1
+Xue4
+  rotate: false
+  xy: 2, 38
+  size: 117, 38
+  orig: 119, 40
+  offset: 1, 1
+  index: -1
+Xue5
+  rotate: false
+  xy: 121, 42
+  size: 120, 35
+  orig: 122, 37
+  offset: 1, 1
+  index: -1
+Xue6
+  rotate: false
+  xy: 2, 2
+  size: 121, 34
+  orig: 123, 36
+  offset: 1, 1
+  index: -1
+Xue7
+  rotate: false
+  xy: 243, 44
+  size: 115, 34
+  orig: 117, 36
+  offset: 1, 1
+  index: -1
+Xue8
+  rotate: false
+  xy: 125, 6
+  size: 114, 34
+  orig: 116, 36
+  offset: 1, 1
+  index: -1
+Xue9
+  rotate: false
+  xy: 241, 80
+  size: 119, 37
+  orig: 121, 39
+  offset: 1, 1
+  index: -1

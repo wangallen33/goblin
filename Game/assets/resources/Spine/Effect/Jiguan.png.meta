@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2d7b8666-fe62-46b8-a260-856c16e03e25",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Jiguan": {
+      "ver": "1.0.3",
+      "uuid": "f231489a-bc9c-4442-9cb5-dab77ff868f8",
+      "rawTextureUuid": "2d7b8666-fe62-46b8-a260-856c16e03e25",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

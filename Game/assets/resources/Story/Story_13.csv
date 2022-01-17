@@ -1,0 +1,5 @@
+INT_ID,STR_Head,INT_Direction,STR_Desc
+1,Plot_Lilo,0,你对哥布林的毒药也束手无策嘛……
+2,Plot_Joyce,1,虽然不致命，但是跑不快也是一件头疼的事情。
+3,Plot_Joyce,1,看来得问问路特戈登的药剂师了，真不想跟他们打交道！
+4,Plot_Lilo,0,但是也没别的办法，等下就去！

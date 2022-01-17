@@ -1,0 +1,118 @@
+
+Du.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Du01
+  rotate: false
+  xy: 2, 2
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Du02
+  rotate: false
+  xy: 365, 7
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Du03
+  rotate: false
+  xy: 486, 129
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Du04
+  rotate: false
+  xy: 486, 8
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Du05
+  rotate: false
+  xy: 607, 129
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Du06
+  rotate: false
+  xy: 2, 124
+  size: 119, 124
+  orig: 119, 124
+  offset: 0, 0
+  index: -1
+Du07
+  rotate: false
+  xy: 123, 128
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Du08
+  rotate: false
+  xy: 607, 8
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Du09
+  rotate: false
+  xy: 123, 6
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Du10
+  rotate: false
+  xy: 728, 129
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Du11
+  rotate: false
+  xy: 244, 128
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Du12
+  rotate: false
+  xy: 244, 6
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Du13
+  rotate: false
+  xy: 365, 128
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Du14
+  rotate: false
+  xy: 728, 9
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+Du15
+  rotate: false
+  xy: 849, 10
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+Du16
+  rotate: false
+  xy: 849, 130
+  size: 120, 118
+  orig: 120, 118
+  offset: 0, 0
+  index: -1
